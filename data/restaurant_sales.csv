@@ -1,0 +1,51 @@
+Order_ID,Date,Time,Item,Category,Quantity,Price
+1001,2025-01-01,12:15,Burger,Fast Food,2,150
+1002,2025-01-01,13:00,Pizza,Italian,1,300
+1003,2025-01-01,18:30,Pasta,Italian,2,250
+1004,2025-01-01,19:15,Coke,Beverage,3,50
+1005,2025-01-02,11:45,Sandwich,Fast Food,1,120
+1006,2025-01-02,12:30,Burger,Fast Food,2,150
+1007,2025-01-02,14:00,Coffee,Beverage,2,80
+1008,2025-01-02,20:00,Pizza,Italian,3,300
+1009,2025-01-03,10:30,Tea,Beverage,2,40
+1010,2025-01-03,13:15,Burger,Fast Food,1,150
+1011,2025-01-03,15:00,Fries,Fast Food,2,90
+1012,2025-01-03,19:30,Pasta,Italian,1,250
+1013,2025-01-04,12:00,Pizza,Italian,2,300
+1014,2025-01-04,13:45,Coffee,Beverage,1,80
+1015,2025-01-04,18:00,Burger,Fast Food,3,150
+1016,2025-01-04,20:15,Coke,Beverage,2,50
+1017,2025-01-05,11:00,Sandwich,Fast Food,2,120
+1018,2025-01-05,13:30,Pasta,Italian,2,250
+1019,2025-01-05,17:45,Tea,Beverage,3,40
+1020,2025-01-05,21:00,Pizza,Italian,1,300
+1021,2025-01-06,12:10,Burger,Fast Food,2,150
+1022,2025-01-06,13:20,Fries,Fast Food,3,90
+1023,2025-01-06,14:45,Coffee,Beverage,2,80
+1024,2025-01-06,19:00,Pasta,Italian,2,250
+1025,2025-01-07,11:30,Sandwich,Fast Food,1,120
+1026,2025-01-07,12:50,Pizza,Italian,2,300
+1027,2025-01-07,15:15,Coke,Beverage,3,50
+1028,2025-01-07,18:45,Burger,Fast Food,2,150
+1029,2025-01-08,10:15,Tea,Beverage,2,40
+1030,2025-01-08,20:30,Pasta,Italian,3,250
+1031,2025-01-09,12:05,Burger,Fast Food,1,150
+1032,2025-01-09,13:40,Pizza,Italian,2,300
+1033,2025-01-09,17:00,Coffee,Beverage,1,80
+1034,2025-01-09,19:20,Fries,Fast Food,2,90
+1035,2025-01-10,11:10,Sandwich,Fast Food,2,120
+1036,2025-01-10,14:00,Coke,Beverage,2,50
+1037,2025-01-10,18:15,Pasta,Italian,1,250
+1038,2025-01-10,20:45,Pizza,Italian,3,300
+1039,2025-01-11,12:25,Burger,Fast Food,2,150
+1040,2025-01-11,13:50,Tea,Beverage,1,40
+1041,2025-01-11,15:30,Fries,Fast Food,3,90
+1042,2025-01-11,19:45,Pasta,Italian,2,250
+1043,2025-01-12,11:20,Sandwich,Fast Food,1,120
+1044,2025-01-12,13:10,Coffee,Beverage,2,80
+1045,2025-01-12,18:30,Burger,Fast Food,3,150
+1046,2025-01-12,20:00,Pizza,Italian,2,300
+1047,2025-01-13,12:00,Fries,Fast Food,2,90
+1048,2025-01-13,14:20,Coke,Beverage,3,50
+1049,2025-01-13,18:50,Pasta,Italian,2,250
+1050,2025-01-13,21:15,Pizza,Italian,1,300
